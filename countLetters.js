@@ -21,5 +21,5 @@ const countLetters = function(string) {
   } return countResult;
 };
 
-const testing = countLetters("lighthouse labs");
+const testing = countLetters("lighthouse in the house");
 console.log(testing);
